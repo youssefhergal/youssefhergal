@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![](https://visitcount.itsvg.in/api?id=youssefhergal&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
+![youssefhergal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhergal&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
